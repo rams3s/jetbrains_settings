@@ -1,0 +1,401 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/PointOfInterest/PointOfInterestController.cs" timestamp="1534250311115">
+        <mark key="'" line="170" column="8" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/EnablePhysics.cs" timestamp="1533575511642">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+      </file>
+      <file name="G:/PROJECTS/shadow_bug/Assets/Shaders/S_AnimatedLightweightStandardSimpleLighting.shader" timestamp="1534758533810">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="8" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/PathEventHandler/ParticleSystemHandler.cs" timestamp="1533744455620">
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Editor/Content/PropertyDrawer/CharacterLocomotionParametersEnumTableDrawer.cs" timestamp="1534172739552">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="13" column="4" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/NavigationPath/Trigger/EnablePhysicsPathTrigger.cs" timestamp="1533573936151">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/JMO Assets/Toony Colors Pro/Shaders PBS/TCP2_Standard PBS.shader" timestamp="1533906366437">
+        <mark key="'" line="30" column="4" />
+      </file>
+      <file name="G:/PROJECTS/shadow_bug/Assets/Shaders/AnimatedShaderHandWritten.shader" timestamp="1534436487090">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="78" />
+        <mark key="^" line="13" column="56" />
+      </file>
+      <file name="/Account.cs" timestamp="1534947056061" />
+      <file name="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/AnimatorParameterLink.cs" timestamp="1534263722599">
+        <mark key="[" line="25" column="38" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/NavigationPath/Trigger/SceneLoaderPathTrigger.cs" timestamp="1533219825411">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="41" />
+        <mark key="^" line="28" column="41" />
+        <mark key="." line="28" column="41" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Editor/Content/PropertyDrawer/FaceAttitudeOffsetEnumTableDrawer.cs" timestamp="1534175781742">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+      </file>
+      <file name="/MainMenuView.cs" timestamp="1534953914316" />
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Character/CharacterAnimationController.cs" timestamp="1534867818185">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="45" column="4" />
+      </file>
+      <file name="G:/PROJECTS/Trajectonav/Assets/Scripts/Controllers/MenuController.cs" timestamp="1533724711946">
+        <mark key="'" line="41" column="12" />
+      </file>
+      <file name="G:/PROJECTS/shadow_bug/Assets/Shaders/S_AnimatedShader.shader" timestamp="1534758555524">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="47" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Editor/Content/Windows/NavigationPathToolsWindow.cs" timestamp="1533806559701">
+        <mark key="'" line="465" column="52" />
+        <mark key="[" line="789" column="49" />
+        <mark key="]" line="789" column="49" />
+        <mark key="." line="789" column="49" />
+        <mark key="^" line="789" column="58" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/EnumDictionaryPropertyDrawer.cs" timestamp="1534238528873">
+        <mark key="'" line="78" column="15" />
+        <mark key="[" line="36" column="37" />
+        <mark key="]" line="37" column="11" />
+        <mark key="." line="37" column="11" />
+        <mark key="^" line="37" column="11" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Editor/ArtistsToolsOld.cs" timestamp="1534248700311">
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="0" />
+        <mark key="." line="249" column="0" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/NavigationPath/Trigger/SendEventPathTrigger.cs" timestamp="1533807949948">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" timestamp="1534955193581">
+        <mark key="'" line="230" column="0" />
+        <mark key="[" line="175" column="0" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
+        <mark key="^" line="114" column="46" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1534954798725">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Character/CharacterComponentInterface.cs" timestamp="1534252280604">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="12" column="4" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/PathEventHandler/EnableChildrenHandler.cs" timestamp="1533745429599">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+      </file>
+      <file name="G:/PROJECTS/shadow_bug/Assets/Shaders/NewSurfaceShader.shader" timestamp="1534773361666">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" timestamp="1533211819220">
+        <mark key="'" line="264" column="22" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="126" />
+        <mark key="." line="51" column="19" />
+        <mark key="^" line="51" column="19" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/FaceExpressionController.cs" timestamp="1533906592372">
+        <mark key="[" line="41" column="41" />
+        <mark key="]" line="41" column="41" />
+        <mark key="^" line="41" column="48" />
+        <mark key="." line="41" column="41" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Editor/Content/PropertyDrawer/FaceParametersEnumTableDrawer.cs" timestamp="1534178479777">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
+        <mark key="^" line="18" column="22" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/PathEventHandler/StartPhysicsHandler.cs" timestamp="1533744399305">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Editor/Content/HierarchyUtils.cs" timestamp="1533574182673">
+        <mark key="'" line="94" column="56" />
+        <mark key="[" line="59" column="58" />
+        <mark key="]" line="59" column="58" />
+        <mark key="^" line="215" column="75" />
+        <mark key="." line="59" column="58" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/NavigationPath/NavigationPathParameters.cs" timestamp="1533834258262">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+      </file>
+      <file name="/UpsourcePsiFile" timestamp="1534953360421" />
+      <file name="G:/PROJECTS/shadow_bug/Assets/Shaders/AnimatedShader.shader" timestamp="1534436482554">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="16" column="56" />
+        <mark key="." line="16" column="76" />
+        <mark key="^" line="16" column="76" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/HideShowSelection/HiddenObjectsManager.cs" timestamp="1534264438647">
+        <mark key="'" line="62" column="16" />
+        <mark key="[" line="80" column="35" />
+        <mark key="]" line="80" column="44" />
+        <mark key="^" line="80" column="44" />
+        <mark key="." line="80" column="44" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Character/Attitude/FaceExpressionController.cs" timestamp="1534252407115">
+        <mark key="'" line="69" column="4" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="77" column="6" />
+      </file>
+      <file name="G:/PROJECTS/Trajectonav/Assets/Scripts/ProjectInfo.cs" timestamp="1533659006937">
+        <mark key="'" line="17" column="12" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Character/GizmoHelper/JumpGizmoHelper.cs" timestamp="1534858289681">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="30" column="14" />
+        <mark key="^" line="30" column="14" />
+        <mark key="." line="30" column="14" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Character/State/Parameters/CharacterLocomotionParametersEnumTable.cs" timestamp="1533832459094">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="0" />
+      </file>
+      <file name="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Parameters/ParametersLink.cs" timestamp="1534263704097">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="37" column="31" />
+        <mark key="^" line="37" column="26" />
+        <mark key="." line="37" column="26" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="143" column="16" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="107" column="21" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="104" column="59" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="36" column="86" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="92" column="26" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="65" column="8" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="96" column="16" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="128" column="15" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="34" column="0" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="83" column="0" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="51" column="32" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="52" column="32" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="246" column="22" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="13" column="37" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/NavigationPath/Trigger/SceneLoaderPathTrigger.cs" />
+      <jump line="0" column="0" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/NavigationPath/Trigger/SceneLoaderPathTrigger.cs" />
+      <jump line="23" column="29" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/HierarchyUtils.cs" />
+      <jump line="57" column="8" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/HierarchyUtils.cs" />
+      <jump line="150" column="63" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/HierarchyUtils.cs" />
+      <jump line="111" column="11" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/HierarchyUtils.cs" />
+      <jump line="12" column="29" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/HierarchyUtils.cs" />
+      <jump line="37" column="8" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/HierarchyUtils.cs" />
+      <jump line="94" column="56" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/HierarchyUtils.cs" />
+      <jump line="442" column="7" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/Windows/NavigationPathToolsWindow.cs" />
+      <jump line="789" column="61" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/Windows/NavigationPathToolsWindow.cs" />
+      <jump line="463" column="76" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/Windows/NavigationPathToolsWindow.cs" />
+      <jump line="788" column="8" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/Windows/NavigationPathToolsWindow.cs" />
+      <jump line="27" column="22" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/Windows/NavigationPathToolsWindow.cs" />
+      <jump line="465" column="52" filename="G:/PROJECTS/WormWorld/Assets/Editor/Content/Windows/NavigationPathToolsWindow.cs" />
+      <jump line="0" column="0" filename="G:/PROJECTS/Trajectonav/Assets/Scripts/ProjectInfo.cs" />
+      <jump line="17" column="12" filename="G:/PROJECTS/Trajectonav/Assets/Scripts/ProjectInfo.cs" />
+      <jump line="0" column="0" filename="G:/PROJECTS/Trajectonav/Assets/Scripts/Controllers/MenuController.cs" />
+      <jump line="47" column="16" filename="G:/PROJECTS/Trajectonav/Assets/Scripts/Controllers/MenuController.cs" />
+      <jump line="41" column="12" filename="G:/PROJECTS/Trajectonav/Assets/Scripts/Controllers/MenuController.cs" />
+      <jump line="4" column="6" filename="G:/PROJECTS/Trajectonav/Assets/UnityCommonCode/Scripts/Editor/Windows/ArtistsToolsWindow.cs" />
+      <jump line="57" column="30" filename="G:/PROJECTS/WormWorld/Assets/JMO Assets/Toony Colors Pro/Shaders PBS/TCP2_Standard PBS.shader" />
+      <jump line="9" column="21" filename="G:/PROJECTS/WormWorld/Assets/JMO Assets/Toony Colors Pro/Shaders PBS/TCP2_Standard PBS.shader" />
+      <jump line="10" column="24" filename="G:/PROJECTS/WormWorld/Assets/JMO Assets/Toony Colors Pro/Shaders PBS/TCP2_Standard PBS.shader" />
+      <jump line="11" column="76" filename="G:/PROJECTS/WormWorld/Assets/JMO Assets/Toony Colors Pro/Shaders PBS/TCP2_Standard PBS.shader" />
+      <jump line="53" column="13" filename="G:/PROJECTS/WormWorld/Assets/JMO Assets/Toony Colors Pro/Shaders PBS/TCP2_Standard PBS.shader" />
+      <jump line="30" column="4" filename="G:/PROJECTS/WormWorld/Assets/JMO Assets/Toony Colors Pro/Shaders PBS/TCP2_Standard PBS.shader" />
+      <jump line="20" column="16" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Character/Attitude/FaceExpressionController.cs" />
+      <jump line="64" column="14" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/EnumDictionaryPropertyDrawer.cs" />
+      <jump line="72" column="16" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/EnumDictionaryPropertyDrawer.cs" />
+      <jump line="76" column="15" filename="G:/PROJECTS/WormWorld/Assets/UnityCommonCode/Scripts/Editor/EnumDictionaryPropertyDrawer.cs" />
+      <jump line="64" column="13" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Character/Attitude/FaceExpressionController.cs" />
+      <jump line="50" column="0" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Character/Attitude/FaceExpressionController.cs" />
+      <jump line="7" column="0" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/PointOfInterest/PointOfInterestController.cs" />
+      <jump line="9" column="4" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Parameters/ParametersLink.cs" />
+      <jump line="35" column="19" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Parameters/ParametersLink.cs" />
+      <jump line="10" column="8" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Parameters/ParametersLink.cs" />
+      <jump line="33" column="0" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="99" column="0" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="101" column="12" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="136" column="0" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="138" column="12" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="180" column="51" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="182" column="12" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="35" column="12" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="79" column="38" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/PointOfInterest/PointOfInterestController.cs" />
+      <jump line="164" column="16" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/PointOfInterest/PointOfInterestController.cs" />
+      <jump line="167" column="28" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/PointOfInterest/PointOfInterestController.cs" />
+      <jump line="170" column="8" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/PointOfInterest/PointOfInterestController.cs" />
+      <jump line="63" column="4" filename="G:/PROJECTS/WormWorld/Assets/Content/Scripts/Character/Attitude/FaceExpressionController.cs" />
+      <jump line="209" column="4" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="114" column="20" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="122" column="20" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="16" column="12" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="81" column="44" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/HiddenObjectsManager.cs" />
+      <jump line="61" column="16" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/HiddenObjectsManager.cs" />
+      <jump line="70" column="16" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/HiddenObjectsManager.cs" />
+      <jump line="79" column="16" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/HiddenObjectsManager.cs" />
+      <jump line="62" column="16" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/HiddenObjectsManager.cs" />
+      <jump line="175" column="41" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="54" column="20" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="66" column="20" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="80" column="20" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="107" column="16" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="44" column="0" filename="/GameSignalInstaller.cs" />
+      <jump line="0" column="0" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+      <jump line="230" column="0" filename="G:/PROJECTS/WormWorld/Assets/HideShowSelection/Editor/HideShowSelection.cs" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>c</text>
+      </register>
+      <register name="-" type="4">
+        <text>c</text>
+      </register>
+      <register name="/" type="4">
+        <text>Undo</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJdi52ZXJ0ZXgueCArPSAoIF9Db3NUaW1lLncgKiAwLjUgKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJLy92LnZlcnRleC54ICs9ICggY29zKF9UaW1lLncpICogMC41ICk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJZmxvYXQ0IGFwcGVuZFJlc3VsdDQgPSAoZmxvYXQ0KCAsIDAuMCAsIDAuMCAsIDAuMCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQl9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlmb3JlYWNoKCBHYW1lT2JqZWN0IGdhbWVPYmplY3QgaW4gU2VsZWN0aW9uLmdhbWVPYmplY3RzICkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJVW5kby5SZWNvcmRPYmplY3QoIGdhbWVPYmplY3QsICJTaG93IGFsbCIgKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlmb3JlYWNoKCBHYW1lT2JqZWN0IGdhbWVPYmplY3QgaW4gU2VsZWN0aW9uLmdhbWVPYmplY3RzICkKCQl7CgkJCVVuZG8uUmVjb3JkT2JqZWN0KCBnYW1lT2JqZWN0LCAiU2hvdyBhbGwiICk7CgkJfQoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQlmb3JlYWNoKCBHYW1lT2JqZWN0IGdhbWVPYmplY3QgaW4gU2VsZWN0aW9uLmdhbWVPYmplY3RzICkKCQl7CgkJCVVuZG8uUmVjb3JkT2JqZWN0KCBnYW1lT2JqZWN0LCAiU2hvdyBzZWxlY3Rpb24iICk7CgkJfQoK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>Undo</last-search>
+      <last-offset />
+      <last-pattern>Undo</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxDaGVja3BvaW50UGF0aFRyaWdnZXJcPg==</entry>
+        <entry encoding="base64">XDxUZWxlcG9ydEltYWdlXD4=</entry>
+        <entry encoding="base64">XDxTZW5kRXZlbnRQYXRoVHJpZ2dlclw+</entry>
+        <entry>Input</entry>
+        <entry encoding="base64">XDxDaW5lbWFjaGluZVw+</entry>
+        <entry>Smoot</entry>
+        <entry>Offset</entry>
+        <entry>Main</entry>
+        <entry>Main maps</entry>
+        <entry>Main Maps</entry>
+        <entry encoding="base64">XDxPZmZzZXRJZFw+</entry>
+        <entry encoding="base64">XDxoZWlnaHRfdG9fdXNlXD4=</entry>
+        <entry>Trans</entry>
+        <entry encoding="base64">XDxUeXBlTmFtZVw+</entry>
+        <entry>Undo.</entry>
+        <entry>Forwa</entry>
+        <entry>forw</entry>
+        <entry encoding="base64">XDxSZWNvcmRPYmplY3RcPg==</entry>
+        <entry encoding="base64">XDxTaG93QWxsXD4=</entry>
+        <entry>Undo</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+        <entry>e</entry>
+        <entry>x</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
